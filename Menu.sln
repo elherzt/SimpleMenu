@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{35B96F7A-EB44-4272-8EB8-DBA5434BD976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{AC4071BE-53CD-4DBA-8E50-8BE3B79878F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B96F7A-EB44-4272-8EB8-DBA5434BD976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B96F7A-EB44-4272-8EB8-DBA5434BD976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B96F7A-EB44-4272-8EB8-DBA5434BD976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B96F7A-EB44-4272-8EB8-DBA5434BD976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4071BE-53CD-4DBA-8E50-8BE3B79878F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4071BE-53CD-4DBA-8E50-8BE3B79878F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4071BE-53CD-4DBA-8E50-8BE3B79878F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4071BE-53CD-4DBA-8E50-8BE3B79878F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
